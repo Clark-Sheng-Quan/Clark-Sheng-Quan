@@ -12,7 +12,7 @@ Currently exploring cloud technologies, automation, and scalable systems 🚀
 - **Other Tools:** Git, Docker, Vite, VS Code
 
 ## 📌 View Me At
-- 🔗 [[Portfolio Website](https://clark-sheng-quan.github.io/Portfoiliao/)](https://clark-sheng-quan.github.io/Portfoilio/) – My personal projects & work showcase  
+- 🔗 [Portfolio Website](https://clark-sheng-quan.github.io/Portfoilio/) – My personal projects & work showcase  
 
 - 📫 Reach my Linkedin: [https://www.linkedin.com/in/sheng-quan-a9281128a/](https://www.linkedin.com/in/sheng-quan-a9281128a/)  
 
