@@ -11,8 +11,8 @@ Currently exploring cloud technologies, automation, and scalable systems 🚀
 - **Data & Analytics:** Python (Pandas, NumPy, Matplotlib), SQL, Power BI  
 - **Other Tools:** Git, Docker, Vite, VS Code
 
-## 📌 Featured Projects
+## 📌 View Me At
 - 🔗 [Portfolio Website](https://clark-sheng-quan.github.io/Portfoiliao/) – My personal projects & work showcase  
 
-- 📫 Reach me at: [https://www.linkedin.com/in/sheng-quan-a9281128a/](https://www.linkedin.com/in/sheng-quan-a9281128a/)  
+- 📫 Reach my Linkedin: [https://www.linkedin.com/in/sheng-quan-a9281128a/](https://www.linkedin.com/in/sheng-quan-a9281128a/)  
 
