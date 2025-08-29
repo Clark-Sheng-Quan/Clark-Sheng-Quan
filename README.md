@@ -6,8 +6,8 @@ I love building web applications and uncovering insights from data.
 Currently exploring cloud technologies, automation, and scalable systems 🚀  
 
 ## 🛠️ Tech Stack
-- **Frontend:** React, TypeScript, JavaScript, HTML, CSS, Tailwind  
-- **Backend:** Node.js, Express, REST APIs, PostgreSQL, MongoDB  
+- **Frontend:** React, TypeScript, JavaScript, HTML, CSS, Vue 
+- **Backend:** Node.js, Express, REST APIs, MySQL, MongoDB  
 - **Data & Analytics:** Python (Pandas, NumPy, Matplotlib), SQL, Power BI  
 - **Other Tools:** Git, Docker, Vite, VS Code
 
