@@ -1,3 +1,5 @@
+![Snake animation](https://raw.githubusercontent.com/Clark-Sheng-Quan/Clark-Sheng-Quan/output/dist/snake.svg)
+
 # Hi, I'm Clark Or Sheng👋
 
 💻 **Full-Stack Web Developer | 📊 Data Analytics Enthusiast**  
