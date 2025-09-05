@@ -1,4 +1,5 @@
-![Snake animation](https://raw.githubusercontent.com/Clark-Sheng-Quan/Clark-Sheng-Quan/output/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Clark-Sheng-Quan/Clark-Sheng-Quan/blob/output/github-contribution-grid-snake.svg?raw=true)
+
 
 # Hi, I'm Clark Or Sheng👋
 
