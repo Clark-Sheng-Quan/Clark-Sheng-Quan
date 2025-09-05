@@ -1,5 +1,6 @@
 ![Snake animation](https://github.com/Clark-Sheng-Quan/Clark-Sheng-Quan/blob/output/github-contribution-grid-snake.svg?raw=true)
 
+![Clark's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Clark-Sheng-Quan&theme=tokyo-night)
 
 # Hi, I'm Clark Or Sheng👋
 
